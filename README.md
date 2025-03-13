@@ -1,0 +1,1 @@
+# aplic_de_cloud_Iot_e_indutria_4.0_em_Python
